@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1641168430 source:c:\users\esteban\documents\materias s4\estructura de datos\programas codeblocks\ejer4.11ordenradix\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<string>
+	<list>
+	<conio.h>
+

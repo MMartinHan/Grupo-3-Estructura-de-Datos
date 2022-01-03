@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641091954 source:c:\users\esteban\documents\materias s4\estructura de datos\programas codeblocks\ejer10.10\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

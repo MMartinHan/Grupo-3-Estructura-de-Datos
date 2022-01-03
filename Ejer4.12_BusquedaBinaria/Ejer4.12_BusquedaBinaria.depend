@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641097273 source:c:\users\esteban\documents\materias s4\estructura de datos\programas codeblocks\ejer4.12_busquedabinaria\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
